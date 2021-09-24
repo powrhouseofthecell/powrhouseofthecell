@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- Portfolio link: [https://powrhouseofthecell.github.io](https://powrhouseofthecell.github.io)
+- Portfolio link: [https://zuhaib.live](https://zuhaib.live)
 
 - 📫 How to reach me **theshahzuhaib96@gmail.com**
 
