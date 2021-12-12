@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zuhaib</h1>
+<h1 align="center">Hi, </h1>
+src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
+<h1 align="center">I'm Zuhaib</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=powrhouseofthecell&label=Profile%20views&color=0e75b6&style=flat" alt="powrhouseofthecell" /> </p>
