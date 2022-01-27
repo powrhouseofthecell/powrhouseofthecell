@@ -9,7 +9,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://twitter.com/shahzuhaib_"><img width="32px" alt="Twitter" title="Twitter" src="./twitter.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://linkedin.com/in/zuhaib-nazir" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./linkedin.png"/></a>
