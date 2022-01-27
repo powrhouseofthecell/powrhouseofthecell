@@ -9,26 +9,25 @@
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://twitter.com/shahzuhaib_"><img width="32px" alt="Twitter" title="Twitter" src="./twitter.png"/></a>
+   <a href="https://twitter.com/shahzuhaib_"><img width="32px" alt="Twitter" title="Twitter" src="assets/twitter.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://linkedin.com/in/zuhaib-nazir" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./linkedin.png"/></a>
+   <a href="https://linkedin.com/in/zuhaibnazir" alt="linkedin"><img width="32px" src="assets/linkedin.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://instagram.com/graiexsoul"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./instagram.png"></a>
+   <a href="https://instagram.com/shahzuhaib_"><img width="32px" alt="Dev.to" title="instagram" src="assets/instagram.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./leetcode.png"/></a>
+   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="assets/leetcode.png"/></a>
 </p>
 <br/>
 
 <!-- Graph -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
 <!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)
 
 ![](https://komarev.com/ghpvc/?username=powrhouseofthecell&style=flat-square&color=lightgrey&label=Views)
 
 <!-- Stats -->
-## 📊 Github stats
+## ➶ Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=powrhouseofthecell&show_icons=true&theme=onedark&count_private=true)
 
@@ -55,7 +54,7 @@
 
 <!-- Streaks -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zuhaib's streak" src="https://github-readme-streak-stats.herokuapp.com?user=powrhouseofthecell&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
