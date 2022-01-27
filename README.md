@@ -11,11 +11,13 @@
 <p align="center">
    <a href="https://twitter.com/shahzuhaib_"><img width="32px" alt="Twitter" title="Twitter" src="assets/twitter.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://linkedin.com/in/zuhaibnazir" alt="linkedin"><img width="32px" src="assets/linkedin.png"/></a>
+   <a href="https://linkedin.com/in/zuhaibnazir" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://instagram.com/shahzuhaib_"><img width="32px" alt="Dev.to" title="instagram" src="assets/instagram.png"></a>
+   <a href="https://instagram.com/shahzuhaib_"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="assets/leetcode.png"/></a>
+   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="Ko-fi" title="LeetCode" src="assets/leetcode.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://zuhaib.live"><img width="32px" alt="Ko-fi" title="zuhaib.live" src="assets/portfolio.png"/></a>
 </p>
 <br/>
 
