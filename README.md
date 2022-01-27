@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=https://readme-typing-svg.herokuapp.com?color=%23FF873A&duration=4000&center=true&lines=I'm+Zuhaib;Full+Stack+Developer;https%3A%2F%2Fzuhaib.live&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&duration=4967&center=true&vCenter=true&lines=I'm+Zuhaib;Full+Stack+Developer+and+Designer;https%3A%2F%2Fzuhaib.live&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
@@ -54,7 +54,7 @@
 
 <!-- Streaks -->
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zuhaib's streak" src="https://github-readme-streak-stats.herokuapp.com?user=powrhouseofthecell&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
