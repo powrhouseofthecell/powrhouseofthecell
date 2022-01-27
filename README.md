@@ -22,6 +22,10 @@
 <!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- Graph -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=powrhouseofthecell&style=flat-square&color=lightgrey&label=Views)
 
 <!-- Stats -->
 ## 📊 Github stats
@@ -50,10 +54,6 @@
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF" alt="Herkoku logo" title="Python" height="25" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=FFFFFF" alt="Herkoku logo" title="MySQL" height="25" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim&logoColor=FFFFFF" alt="Herkoku logo" title="Neovim" height="25" /></span>&nbsp;&nbsp;
-
-<!-- Graph -->
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Streaks -->
 <p align="center">
