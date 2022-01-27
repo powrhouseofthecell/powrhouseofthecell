@@ -1,9 +1,9 @@
 
-<h3 align="center">
+<h4 align="center">
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   , Welcome to my GitHub Profile
-</h3>
+</h4>
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=https://readme-typing-svg.herokuapp.com?color=%23FF873A&duration=4000&center=true&lines=I'm+Zuhaib;Full+Stack+Developer;https%3A%2F%2Fzuhaib.live&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
