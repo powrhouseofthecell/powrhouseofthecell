@@ -18,12 +18,12 @@
    <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./leetcode.png"/></a>
 </p>
 <br/>
+
 <!-- Graph -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![](https://komarev.com/ghpvc/?username=powrhouseofthecell&style=flat-square&color=lightgrey&label=Views)
 
