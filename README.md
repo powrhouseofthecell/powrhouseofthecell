@@ -22,16 +22,16 @@
 <br/>
 
 <!-- Graph -->
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
 <!-- Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)
 
 ![](https://komarev.com/ghpvc/?username=powrhouseofthecell&style=flat-square&color=lightgrey&label=Views)
 
 <!-- Stats -->
 ## ➶ Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=powrhouseofthecell&show_icons=true&theme=onedark&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=powrhouseofthecell&show_icons=true&theme=onedark&count_private=true)](https://github-readme-stats.vercel.app/api?username=powrhouseofthecell&show_icons=true&theme=onedark&count_private=true)
 
 <!-- Technologies -->
 ## 🛠  Technologies and tools
@@ -56,7 +56,21 @@
 
 <!-- Streaks -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=powrhouseofthecell&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zuhaib's streak" src="https://github-readme-streak-stats.herokuapp.com?user=powrhouseofthecell&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
+
+<!-- Pins -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=LeetCode&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/LeetCode)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=DS-JS&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/DS-JS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=Task-Manager&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/TaskManager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=GraphQL&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/GraphQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=cli-notes-taking-app&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/cli-notes-taking-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=ChatApp&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/ChatApp)
