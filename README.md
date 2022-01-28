@@ -65,12 +65,14 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=LeetCode&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/LeetCode)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=DS-JS&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/DS-JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=configs&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/configs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=Task-Manager&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/TaskManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=Task-Manager&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/Task-Manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=powrhouseofthecell.github.io&theme=onedark)](https://github.com/powrhouseofthecell/powrhouseofthecell.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=GraphQL&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/GraphQL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=cli-notes-taking-app&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/cli-notes-taking-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=cli-notes-taking-app&theme=onedark)](https://github.com/powrhouseofthecell/cli-notes-taking-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=ChatApp&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/ChatApp)
