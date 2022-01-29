@@ -68,8 +68,17 @@
 
 <!-- Pins -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=configs&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/configs)
+#### Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=Task-Manager&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/Task-Manager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=GraphQL&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/GraphQL)
+<a href="https://github.com/powrhouseofthecell/configs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=LeetCode&show_owner=true&theme=onedark"" />
+</a>
+<a href="https://github.com/powrhouseofthecell/configs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=GraphQL&show_owner=true&theme=onedark"" />
+</a>
+<a href="https://github.com/powrhouseofthecell/configs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=Task-Manager&show_owner=true&theme=onedark"" />
+</a>
+<a href="https://github.com/powrhouseofthecell/configs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=configs&show_owner=true&theme=onedark"" />
+</a>
