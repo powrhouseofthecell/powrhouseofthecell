@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&duration=4967&center=true&vCenter=true&lines=I'm+Zuhaib;Full+Stack+Developer+and+Designer;https%3A%2F%2Fzuhaib.live&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&duration=4967&center=true&vCenter=true&lines=I'm+Zuhaib;Full+Stack+Developer+and+Designer;https%3A%2F%2Fzuhaib.live&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <!-- Social icons section -->
@@ -22,19 +22,24 @@
 <br/>
 
 <!-- Graph -->
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
+
 <!-- Trophies -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)](https://github-profile-trophy.vercel.app/?username=powrhouseofthecell&theme=onedark)
 
 ![](https://komarev.com/ghpvc/?username=powrhouseofthecell&style=flat-square&color=lightgrey&label=Views)
 
 <!-- Stats -->
+
 ## ➶ Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=powrhouseofthecell&show_icons=true&theme=onedark&count_private=true)](https://github-readme-stats.vercel.app/api?username=powrhouseofthecell&show_icons=true&theme=onedark&count_private=true)
 
 <!-- Technologies -->
-## 🛠  Technologies and tools
+
+## 🛠 Technologies and tools
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>&nbsp;&nbsp;
@@ -63,10 +68,8 @@
 
 <!-- Pins -->
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=configs&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/configs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=Task-Manager&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/Task-Manager)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=powrhouseofthecell&repo=GraphQL&show_owner=true&theme=onedark)](https://github.com/powrhouseofthecell/GraphQL)
