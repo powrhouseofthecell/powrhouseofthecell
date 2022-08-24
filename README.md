@@ -48,6 +48,7 @@
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" title="Redis" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="TravisCI" title="TravisCI" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" /></span>&nbsp;
@@ -60,7 +61,7 @@
 <span><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" title="sass" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" title="svelte" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Herkoku logo" title="Heroku" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Herkoku logo" title="Neovim" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>&nbsp;
 
 <!-- Streaks -->
 <p align="center">
