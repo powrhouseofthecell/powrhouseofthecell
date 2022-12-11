@@ -11,7 +11,7 @@
 <p align="center">
    <a href="https://twitter.com/shahzuhaib_"><img width="32px" alt="Twitter" title="Twitter" src="assets/twitter.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://linkedin.com/in/zuhaibnazir" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
+   <a href="https://linkedin.com/in/zuhaibnazir"><img width="32px" alt="Linkedin" title="LinkedIn" src="assets/linkedin.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://instagram.com/shahzuhaib_"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
