@@ -15,7 +15,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://instagram.com/shahzuhaib_"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="Ko-fi" title="LeetCode" src="assets/leetcode.png"/></a>
+   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="LeetCode" title="LeetCode" src="assets/leetcode.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://zuhaib.me"><img width="32px" alt="Ko-fi" title="zuhaib.me" src="assets/portfolio.png"/></a>
 </p>
@@ -23,7 +23,7 @@
 
 <!-- Graph -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
 
 <!-- Trophies -->
 
