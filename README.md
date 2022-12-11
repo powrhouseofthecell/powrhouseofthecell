@@ -17,7 +17,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="LeetCode" title="LeetCode" src="assets/leetcode.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://zuhaib.me"><img width="32px" alt="Ko-fi" title="zuhaib.me" src="assets/portfolio.png"/></a>
+   <a href="https://zuhaib.me"><img width="32px" alt="Portfolio" title="zuhaib.me" src="assets/portfolio.png"/></a>
 </p>
 <br/>
 
