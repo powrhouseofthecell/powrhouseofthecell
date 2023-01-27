@@ -23,7 +23,7 @@
 
 <!-- Graph -->
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)
+<!-- [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai)](https://activity-graph.herokuapp.com/graph?username=powrhouseofthecell&theme=monokai) -->
 
 <!-- Trophies -->
 
