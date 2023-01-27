@@ -9,15 +9,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://twitter.com/shahzuhaib_"><img width="32px" alt="Twitter" title="Twitter" src="assets/twitter.png"/></a>
+   <a href="https://twitter.com/shahzuhaib_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://linkedin.com/in/zuhaibnazir"><img width="32px" alt="Linkedin" title="LinkedIn" src="assets/linkedin.png"/></a>
+   <a href="https://linkedin.com/in/zuhaibnazir"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://instagram.com/shahzuhaib_"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
+   <a href="https://instagram.com/shahzuhaib_"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.leetcode.com/zuhaibnazir"><img width="32px" alt="LeetCode" title="LeetCode" src="assets/leetcode.png"/></a>
+   <a href="https://www.leetcode.com/zuhaibnazir"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://zuhaib.me"><img width="32px" alt="Portfolio" title="zuhaib.me" src="assets/portfolio.png"/></a>
+   <a href="https://zuhaib.me"><img alt="Portfolio" title="zuhaib.me" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 <br/>
 
