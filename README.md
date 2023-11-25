@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&duration=4967&center=true&vCenter=true&lines=I'm+Zuhaib;Full+Stack+Developer;https%3A%2F%2Fzuhaib.me&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&duration=4967&center=true&vCenter=true&lines=I'm+Zuhaib;Full+Stack+Developer;https%3A%2F%2Fzuhaib.thedev.id&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <!-- Social icons section -->
