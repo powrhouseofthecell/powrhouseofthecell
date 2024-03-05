@@ -13,8 +13,6 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://linkedin.com/in/zuhaibnazir"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://instagram.com/shahzuhaib_"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.leetcode.com/zuhaibnazir"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://zuhaib.me"><img alt="Portfolio" title="zuhaib.me" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
