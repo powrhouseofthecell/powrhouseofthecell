@@ -15,7 +15,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.leetcode.com/zuhaibnazir"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://zuhaib.me"><img alt="Portfolio" title="zuhaib.me" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+   <a href="https://zuhaib.thedev.id"><img alt="Portfolio" title="zuhaib.thedev.id" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 <br/>
 
